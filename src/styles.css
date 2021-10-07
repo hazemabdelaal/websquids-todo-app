@@ -1,0 +1,40 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.todos-container {
+  width: 50%;
+  margin: 5rem auto;
+}
+
+.todo-border {
+  border: 0.1rem solid grey;
+  padding: 3rem;
+}
+
+.form-container {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.todo-title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.todo-title {
+  margin-right: 1rem;
+}
